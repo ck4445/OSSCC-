@@ -17,7 +17,7 @@
 
 <p style="color:#e74c3c;"><b>Possible Methods:</b></p>
 <ol>
-  <li>Create balance-modifying APIs for all currencies and give each other access.</li>
+  <li>Create balance-modifying APIs for all currencies and give each other access.(Would still require comment project but only one person would need to run it)</li>
   <li>Make all projects detect comments on a specific project and update balances based on what transactions people do in the comments.</li>
 </ol>
 
