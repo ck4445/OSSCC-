@@ -30,3 +30,5 @@ I, Coockat444, personally prefer option 2, but it would require more work from a
 
 If any of you have ideas for how to do this, let me know at:  
 [https://scratch.mit.edu/users/Coockat444/](https://scratch.mit.edu/users/Coockat444/)
+
+Project link: https://scratch.mit.edu/projects/1184455002/
