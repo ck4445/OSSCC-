@@ -1,4 +1,4 @@
-# UnitedScratchMoney
+# Official Scratch Cloud Currency Converter
 
 This is a project aiming to make it easy to exchange currencies between various Scratch currencies.
 
